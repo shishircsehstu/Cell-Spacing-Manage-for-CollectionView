@@ -1,6 +1,10 @@
 # Cell-Spacing-Manage-for-CollectionView
 
-## set the UICollectionViewDelegateFlowLayout function
+Firstly mention your spacing
+
+    var cellSpace = CGFloat(3)
+    
+## Now set the flow layout UICollectionViewDelegateFlowLayout function
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
         
