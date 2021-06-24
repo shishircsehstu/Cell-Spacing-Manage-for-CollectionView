@@ -24,5 +24,8 @@ Firstly mention your spacing
       }
 Now Run project :D 
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-06-24 at 16 58 19](https://user-images.githubusercontent.com/29371886/123251903-8655e780-d50d-11eb-9c68-f03673c30a1e.png)
+
+<img src="https://user-images.githubusercontent.com/29371886/123251903-8655e780-d50d-11eb-9c68-f03673c30a1e.png" 
+     width="400" 
+     height="500" />
 
