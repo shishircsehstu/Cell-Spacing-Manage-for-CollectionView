@@ -22,3 +22,4 @@ Firstly mention your spacing
       func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumLineSpacingForSectionAt section: Int) -> CGFloat {
           return cellSpace
       }
+Now Run project :D 
