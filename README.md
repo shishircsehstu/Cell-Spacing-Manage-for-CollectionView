@@ -27,5 +27,5 @@ Now Run project :D
 
 <img src="https://user-images.githubusercontent.com/29371886/123251903-8655e780-d50d-11eb-9c68-f03673c30a1e.png" 
      width="400" 
-     height="500" />
+     height="800" />
 
